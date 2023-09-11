@@ -1,0 +1,10 @@
+nav ul a.active {
+  text-decoration: none;
+  font-style: italic;
+  color: black;
+  font-weight: 700;
+}
+
+nav ul a {
+  color: wheat;
+}
